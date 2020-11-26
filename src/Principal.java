@@ -4,10 +4,9 @@ public class Principal {
 
     ArrayList<ArrayList> hilos = new ArrayList<ArrayList>();
     final int NumHilos=3;
-    final int NumIt=6;
+    final int NumIt=5;
 
     public void principal() {
-
         for (int j=0; j<NumHilos; j++) {
             hilo h = new hilo(j, this);
             h.setName("Hilo " + j);
@@ -22,7 +21,6 @@ public class Principal {
                 lista.add(i);
             }
         }
-
         return lista;
     }
 

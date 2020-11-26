@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PROG SERV PROC.iml" filepath="$PROJECT_DIR$/PROG SERV PROC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/100hilos.iml" filepath="$PROJECT_DIR$/100hilos.iml" />
     </modules>
   </component>
 </project>
